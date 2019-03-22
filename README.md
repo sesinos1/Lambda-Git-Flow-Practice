@@ -31,3 +31,5 @@
     On the _'`Open a Pull Request`'_ page click on _`Reviewers`_. If your PM has accepted your invite, then you should be able to select them here. If not, then they haven't accepted the invite, and come back later...
 
     **Your PM** will merge the work into **YOUR** Master fork when they have reviewed and approved it.
+
+    Thank you for making this, it should be part of the class.(very helpful :)
